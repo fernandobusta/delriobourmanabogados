@@ -11,7 +11,7 @@ import {
 } from 'framer-motion'
 import { useCallback, useLayoutEffect, useRef, useState } from 'react'
 import useMeasure from 'react-use-measure'
-import { Container } from './Container'
+import { Container } from './container'
 import { Link } from './link'
 import { Heading, Subheading } from './text'
 

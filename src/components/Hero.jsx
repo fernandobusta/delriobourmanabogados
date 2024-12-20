@@ -1,7 +1,7 @@
 'use client'
 
 import { Button } from '@/components/button'
-import { Container } from '@/components/Container'
+import { Container } from '@/components/container'
 import { HeroImageBackground } from '@/components/gradient'
 import { Navbar } from '@/components/navbar'
 

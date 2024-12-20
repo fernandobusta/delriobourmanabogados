@@ -1,5 +1,5 @@
 import { BentoCard } from '@/components/bento-card'
-import { Container } from '@/components/Container'
+import { Container } from '@/components/container'
 import { Footer } from '@/components/footer'
 import GoogleMapComponent from '@/components/GoogleMapComponent'
 import Hero from '@/components/Hero'
